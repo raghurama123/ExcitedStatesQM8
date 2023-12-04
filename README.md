@@ -6,9 +6,9 @@
 
 The data was used in our first application of machine learning modeling of excited state properties across chemical space.
 
-_Electronic spectra from TDDFT and machine learning in chemical space_   
-Raghunathan Ramakrishnan, Mia Hartmann, Enrico Tapavicza, O. Anatole von Lilienfeld   
-J. Chem. Phys. 143, 084111 (2015)    
+_Electronic spectra from TDDFT and machine learning in chemical space_              
+Raghunathan Ramakrishnan, Mia Hartmann, Enrico Tapavicza, O. Anatole von Lilienfeld           
+Journal of Chemical Physics, 143 (2015) 084111 (1-8).   
 [https://doi.org/10.1063/1.4928757](https://doi.org/10.1063/1.4928757)
 
 
@@ -37,3 +37,15 @@ The dataset comprises
 
 You can perform data-analysis on this dataset at the MolDis platform [https://moldis.tifrh.res.in/db/dbqm8ex](https://moldis.tifrh.res.in/db/dbqm8ex)    
 
+# References
+#### ExcitedStatesQM8 dataset 
+_Electronic spectra from TDDFT and machine learning in chemical space_         
+Raghunathan Ramakrishnan, Mia Hartmann, Enrico Tapavicza, O. Anatole von Lilienfeld           
+Journal of Chemical Physics, 143 (2015) 084111 (1-8).            
+[https://doi.org/10.1063/1.4928757](https://doi.org/10.1063/1.4928757)            
+
+#### QM9 dataset
+_Quantum chemistry structures and properties of 134 kilo molecules_                
+Raghunathan Ramakrishnan, Pavlo O. Dral, Matthias Rupp, O. Anatole von Lilienfeld            
+Scientific Data 1, 140022 (2014).          
+[https://doi.org/10.1038/sdata.2014.22](https://doi.org/10.1038/sdata.2014.22)          
