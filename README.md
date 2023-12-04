@@ -15,13 +15,14 @@ The dataset comprises
   - LR-TDDFT(PBE0/def2TZVP)
   - LR-TDDFT(CAMB3LYP/def2TZVP)
  
-  # How to use?
-
+  # How to download the data?
+```
   git clone git@github.com:raghurama123/ExcitedStatesQM8.git
 
   cd ExcitedStatesQM8
 
   cd 22k_electronic_spectra_TDDFT_CC2
+```
 
   The file
   - `gdb8_22k_elec_spec.txt` contains electronic excitation energies (in hartree) and oscillator strengths (in atomic unit, length representation)
