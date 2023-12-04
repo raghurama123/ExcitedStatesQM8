@@ -33,3 +33,7 @@ The dataset comprises
   - `gdb8_22k_elec_spec.txt` contains electronic excitation energies (in hartree) and oscillator strengths (in atomic unit, length representation)
   - `XYZ_B3LYP_631G2dfp.xyz` contains equilibrium geometries relaxed at the B3LYP/6-31G(2df,p) level.
 
+# Data-mining platform
+
+You can perform data-analysis on this dataset at the MolDis platform [https://moldis.tifrh.res.in/db/dbqm8ex](https://moldis.tifrh.res.in/db/dbqm8ex)    
+
