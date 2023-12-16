@@ -13,8 +13,8 @@ Journal of Chemical Physics, 143 (2015) 084111 (1-8).
 
 
 The dataset comprises 
-- structures (Cartesian coordinates in Angstroms) of 21786 (22k) molecules relaxed at the B3LYP/6-31G(2df,p) level. This is the method used to relax the QM9 dataset (from Scientific Data, 1 (2014) 140022).
-- valence electronic excitation energies (in hartree) and oscillator strengths (in atomic unit, length representation) computed at the levels
+- Structures (Cartesian coordinates in Angstroms) of 21786 (22k) molecules relaxed at the `B3LYP/6-31G(2df,p)` level. This method was used to generate structures of the QM9 dataset (see [Scientific Data, 1 (2014) 140022](https://doi.org/10.1038/sdata.2014.22)).
+- Valence electronic excitation energies (in hartree) and oscillator strengths (in atomic unit, length representation) computed at the levels
   - RI-CC2/def2TZVP
   - LR-TDDFT(PBE0/def2SVP)
   - LR-TDDFT(PBE0/def2TZVP)
